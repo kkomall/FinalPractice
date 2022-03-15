@@ -15,5 +15,6 @@ public class AddTwoNumbers {
         int num3=10;
         sum=sum+num3;
         System.out.println("Sum of three numbers: "+sum);
+        System.out.println("Youcan pull changes to your local repository ");
     }
 }
